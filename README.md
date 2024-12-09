@@ -1,2 +1,1 @@
-# lostisland
-SDK7 - Decentraland
+# sdk-empty-scene-template
